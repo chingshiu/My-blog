@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: antiquewhite;
+}
+
+h1 {
+	color: saddlebrown;
+	text-align:center
+}
+
+p {
+	color:#895C4A;
+	text-align: right
+}
+
