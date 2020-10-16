@@ -15,3 +15,17 @@ p {
 	text-align: right
 }
 
+a{
+	text-decoration: none
+}
+#firstp {
+    line-height: 5;
+	color: rosybrown
+}
+.blue {
+	color: cadetblue;
+}
+
+.red {
+	color: indianred;
+}
